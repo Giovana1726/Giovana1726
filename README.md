@@ -21,3 +21,5 @@ Algumas das linguagens que trabalho em meus projetos!
 )
 ![Linguagens](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 )
+
+![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana1726&show_icons=true&theme=radical)
